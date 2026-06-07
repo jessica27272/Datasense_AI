@@ -11,6 +11,7 @@ def get_llm():
     )
 
 
+
 def create_analyst_agent() -> Agent:
     return Agent(
         role="Senior Data Analyst",
