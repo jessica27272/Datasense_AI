@@ -1,0 +1,13 @@
+Month,Sales,Expenses,Region,Employees
+Jan,12000,8000,North,45
+Feb,15000,9000,South,52
+Mar,13500,8500,East,48
+Apr,17000,10000,West,60
+May,19000,11000,North,65
+Jun,16000,9500,South,58
+Jul,21000,12000,East,70
+Aug,18500,11000,West,63
+Sep,22000,13000,North,75
+Oct,20000,12000,South,68
+Nov,25000,14000,East,80
+Dec,28000,15000,West,85
